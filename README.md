@@ -1,7 +1,7 @@
 # cpu-scheduling-simulator
  Round Robin vs SJF Comparison Project  for Operating System
 
- # 🚀 CPU Scheduling Simulator PRO
+ # 🚀 CPU Scheduling Simulator 
 
 A modern interactive web application to simulate and compare CPU scheduling algorithms:
 
