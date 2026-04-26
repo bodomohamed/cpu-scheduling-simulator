@@ -76,11 +76,6 @@ A modern interactive web application to simulate and compare CPU scheduling algo
 
 ---
 
-## 📸 Screenshots
-
-(you can add screenshots here)
-
----
 
 ## 🧠 Conclusion
 
@@ -93,6 +88,4 @@ while Round Robin ensures fairness and better response time.
 
 **Mohamed (bodomohamed)**
 
----
 
-## ⭐ If you like this project, give it a star!
