@@ -1,7 +1,7 @@
 # cpu-scheduling-simulator
  Round Robin vs SJF Comparison Project  for Operating System
 
- # 🚀 CPU Scheduling Simulator 
+ #  CPU Scheduling Simulator 
 
 A modern interactive web application to simulate and compare CPU scheduling algorithms:
 
@@ -20,20 +20,20 @@ A modern interactive web application to simulate and compare CPU scheduling algo
   - Waiting Time (WT)
   - Turnaround Time (TAT)
   - Response Time (RT)
-- 📊 Line Chart comparison
-- ⚖️ Automatic algorithm analysis
-- 📄 Export results as PDF
-- 🧪 Predefined test scenarios
+-  Line Chart comparison
+-  Automatic algorithm analysis
+-  Export results as PDF
+-  Predefined test scenarios
 
 ---
 
-## 🖥️ Live Demo
+##  Live Demo
 
 👉 https://bodomohamed.github.io/CPU-Scheduling-Visual-Simulator/
 
 ---
 
-## 📊 Algorithms Overview
+##  Algorithms Overview
 
 ### 🔵 Round Robin
 - Fair scheduling
@@ -47,7 +47,7 @@ A modern interactive web application to simulate and compare CPU scheduling algo
 
 ---
 
-## 🧪 Test Scenarios
+##  Test Scenarios
 
 - Scenario A: Mixed workload
 - Scenario B: Short jobs
@@ -55,7 +55,7 @@ A modern interactive web application to simulate and compare CPU scheduling algo
 
 ---
 
-## 📈 Comparison Insights
+##  Comparison Insights
 
 | Metric | Better Algorithm |
 |------|----------------|
@@ -66,7 +66,7 @@ A modern interactive web application to simulate and compare CPU scheduling algo
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - Tailwind CSS
@@ -77,14 +77,14 @@ A modern interactive web application to simulate and compare CPU scheduling algo
 ---
 
 
-## 🧠 Conclusion
+##  Conclusion
 
 SJF provides better efficiency in terms of waiting and turnaround time,  
 while Round Robin ensures fairness and better response time.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Abdullah (bodomohamed)**
 
