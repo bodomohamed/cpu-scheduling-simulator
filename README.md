@@ -29,7 +29,7 @@ A modern interactive web application to simulate and compare CPU scheduling algo
 
 ## 🖥️ Live Demo
 
-👉 https://bodomohamed.github.io/cpu-scheduling-simulator/
+👉 https://bodomohamed.github.io/CPU-Scheduling-Visual-Simulator/
 
 ---
 
